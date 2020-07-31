@@ -1,4 +1,4 @@
-package com.lzq.springbootes.config;
+package com.lzq.springbootes.test;
 
 import com.alibaba.fastjson.JSON;
 import com.lzq.springbootes.entity.User;
